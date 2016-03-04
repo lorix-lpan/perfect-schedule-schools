@@ -4,7 +4,7 @@ For more information of this project, visit the project [page](http://lorix-lpan
 [repo](https://github.com/lorix-lpan/perfect-schedule)
 
 ### Specifications
-Make sure to read it before make a pull request!
+Submit 4 seperate JSON files => ['teachers.json', 'codes.json', 'courses.json', 'details.json']!
 ```
 // teachers.json
 [
